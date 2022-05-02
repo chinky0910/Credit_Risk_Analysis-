@@ -35,7 +35,7 @@ Recall Low Risk: 66%
 
 
 ### Cluster Centroid Undersampling
-Accuracy Score: 51.3%
+Accuracy Score: 53.3%
 Precision High Risk: 0%
 Precision Low Risk: 100%
 Recall High Risk: 61%
